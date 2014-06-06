@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#toTranslate {
+  width: 60%;
+  height: 50px;
+  font-size: 45px;
+}
+
+#translated {
+  font-size: 45px;
+}
